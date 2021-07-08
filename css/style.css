@@ -9,6 +9,10 @@
     color: white;
 }
 
+.my_black {
+    color: #333333;
+}
+
 .my_white-bg {
     background-color: white;
 }
@@ -75,7 +79,19 @@ header {
     height: 400px;
     width: 100%;
     margin-bottom: 20px;
+    margin-left: 6px;
+    margin-right: 6px;
     object-fit: cover;
+}
+
+#about {
+    margin-top: 50px;
+    background-color: #1ABC9C;
+}
+
+.my_about {
+    font-size: 3em;
+    font-weight: 700;
 }
 
 
