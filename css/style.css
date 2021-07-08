@@ -9,7 +9,27 @@
     color: white;
 }
 
+.my_white-bg {
+    background-color: white;
+}
 
+.my_black-bg {
+    background-color: #333333;
+}
+
+.my_line {
+    width: 10%;
+    height: 6px;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.my_element i.fa-star {
+    display: inline-block;
+    width: 8%;
+    font-size: 30px;
+}
 /* FINE COMMON */
 
 
@@ -26,7 +46,7 @@ header {
 }
 /* FINE HEADER */
 
-
+/* MAIN */
 /* JUMBOTRON */
 #my_avatar {
     width: 250px;
@@ -34,30 +54,29 @@ header {
 
 #jumbotron {
     background-color: #1ABC9C;
+}
+
+#my_font-tit {
+    font-size: 3em;
+    font-weight: 700;
+}
+/* FINE JUMBOTRON */
+#portfolio {
     width: 100%;
 }
 
-.my_element i.fa-star {
-    display: inline-block;
-    width: 8%;
-    font-size: 30px;
+ .my_portfolio {
+    color: #333333;
+    font-size: 3em;
+    font-weight: 700;
 }
 
-
-#my_font-tit {
-    font-size: 4em;
+.my_img {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 20px;
+    object-fit: cover;
 }
-
-.my_line {
-    width: 10%;
-    height: 6px;
-    border-radius: 3px;
-    background-color: white;
-    margin-top: 10px;
-    margin-bottom: 30px;
-}
-
-/* FINE JUMBOTRON */
 
 
 
