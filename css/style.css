@@ -112,6 +112,13 @@ header {
 
 
 /* FOOTER */
+#footer_top {
+    margin-top: 40px;
+    background-color: #3A546D;
+}
 
+#my_green {
+    color: #1ABC9C;
+}
 
 /* FINE FOOTER */
