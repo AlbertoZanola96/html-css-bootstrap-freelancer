@@ -96,9 +96,7 @@ header {
 
 .my_form {
     width: 100%;
-    border-left: none;
-    border-right: none;
-    border-top: none;
+    border: none;
     padding-top: 20px;
     font-weight: 600;
 }
@@ -107,6 +105,13 @@ header {
     background-color: #1ABC9C;
 }
 
+.my_send {
+    height: 50px;
+}
+/* FINE MAIN */
 
 
-/* debug */
+/* FOOTER */
+
+
+/* FINE FOOTER */
