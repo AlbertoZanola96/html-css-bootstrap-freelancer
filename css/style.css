@@ -94,6 +94,19 @@ header {
     font-weight: 700;
 }
 
+.my_form {
+    width: 100%;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    padding-top: 20px;
+    font-weight: 600;
+}
+
+.my_submit {
+    background-color: #1ABC9C;
+}
+
 
 
 /* debug */
