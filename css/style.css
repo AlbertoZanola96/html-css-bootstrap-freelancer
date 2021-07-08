@@ -43,10 +43,21 @@ header {
     font-size: 30px;
 }
 
+
 #my_font-tit {
     font-size: 4em;
 }
 
+.my_line {
+    width: 10%;
+    height: 6px;
+    border-radius: 3px;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+/* FINE JUMBOTRON */
 
 
 
