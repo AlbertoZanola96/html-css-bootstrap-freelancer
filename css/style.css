@@ -84,6 +84,28 @@ header {
     object-fit: cover;
 }
 
+.my_item {
+    position: relative;
+}
+.my_layover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 400px;
+    line-height: 400px;
+    vertical-align: middle;
+    margin-left: 6px;
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    background-color: rgba(26, 188, 156, 0.4);
+    display: none;
+}
+
+.my_item:hover .my_layover {
+    display: inline-block;
+}
 #about {
     margin-top: 50px;
     background-color: #1ABC9C;
